@@ -3,11 +3,11 @@
 A modular, menu-driven low-level system design (LLD) project for a Movie Ticket Booking System built in object-oriented C++.
 
 ## Project Overview
-This application simulates a real-world cinema ticket booking platform (like PVR/INOX). It allows users to browse active movies, view show schedules and interactive seat layouts, calculate tier-based pricing, process payments, and manage booking cancellations.
+This application simulates a real-world cinema ticket booking platform. It allows users to browse active movies, view show schedules and interactive seat layouts, calculate tier-based pricing, process payments, and manage booking cancellations.
 
 ## Key Features
 * **Movie & Show Management:** Browse playing movies and show schedules across screens.
-* **Interactive Seat Layout:** Visual representation of seats (`[ ]` Available / `[X]` Booked).
+* **Interactive Seat Layout:** Visual representation of seats ( Available / Booked).
 * **Tier-Based Pricing:** Automatic pricing for Silver, Gold, and Platinum seat categories.
 * **Polymorphic Payments:** Supports UPI, Card, and Cash payment methods with error handling.
 * **Ticket Generation:** Auto-generates structured tickets with unique Booking IDs.
