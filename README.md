@@ -25,14 +25,12 @@ SEQUENCED DIAGRAM:
 <img width="2560" height="1518" alt="sequenced diagram" src="https://github.com/user-attachments/assets/a32a3ee5-3958-4cd8-bf27-d37e99edb48d" />
 
 OUTPUTS:
-<img width="601" height="242" alt="6" src="https://github.com/user-attachments/assets/d8d022be-d7ad-4aee-80c7-f55772689188" />
-<img width="624" height="687" alt="5" src="https://github.com/user-attachments/assets/74d8f058-c51c-4c70-8bc7-f8f72844f673" />
-<img width="624" height="697" alt="4" src="https://github.com/user-attachments/assets/da92a2b4-1b0f-42e1-b1e2-b5cb1ee9263a" />
-<img width="624" height="782" alt="3" src="https://github.com/user-attachments/assets/9e923998-c12b-4b92-95ec-7c143a5fde9c" />
-<img width="624" height="605" alt="2" src="https://github.com/user-attachments/assets/fe10598e-f45a-453f-8491-4597edb34b56" />
-<img width="624" height="557" alt="1" src="https://github.com/user-attachments/assets/7c0e4881-8ec7-49bb-a8c6-7ad0b4cff663" />
-
-
+<img width="624" height="557" alt="1" src="https://github.com/user-attachments/assets/56f18999-41b4-42ad-bc1c-5aae320b6392" />
+<img width="624" height="605" alt="2" src="https://github.com/user-attachments/assets/8d818660-a4d8-4c44-b500-e2cd3a0660f6" />
+<img width="624" height="782" alt="3" src="https://github.com/user-attachments/assets/f0cbadf8-b346-496e-a4c8-45cc27a40dd9" />
+<img width="624" height="697" alt="4" src="https://github.com/user-attachments/assets/550b1f56-0372-4c96-b8a9-5f7f3f72984c" />
+<img width="624" height="687" alt="5" src="https://github.com/user-attachments/assets/ac8c7292-f7c1-45b5-94bf-36425695179a" />
+<img width="601" height="242" alt="6" src="https://github.com/user-attachments/assets/7ab3299b-f48a-49cd-a89b-b5876a19d394" />
 
 ## File Structure
 ```text
