@@ -36,3 +36,4 @@ This application simulates a real-world cinema ticket booking platform. It allow
 ├── main.cpp
 ├── .gitignore
 └── README.md
+<img width="2560" height="1662" alt="class diagram" src="https://github.com/user-attachments/assets/63a80cdb-3c22-40fd-9487-6f1a0e5f86cc" />
